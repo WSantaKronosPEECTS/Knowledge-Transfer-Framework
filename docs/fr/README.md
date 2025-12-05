@@ -13,7 +13,7 @@
 Bienvenue dans le Framework de Transfert de Connaissances v1.0. Ce framework fournit une solution complète pour l'apprentissage par transfert de connaissances, combinant trois modules puissants:
 
 - **KTLS-MT**: Système d'Apprentissage par Transfert de Connaissances - Multi-Tâches
-- **CEUT**: Transfert Unifié Cross-Environnement
+- **CEUT**: Transfert Unifié Inter-Environnements
 - **ETT-2**: Techniques de Transfert Améliorées - Version 2
 
 ## Installation

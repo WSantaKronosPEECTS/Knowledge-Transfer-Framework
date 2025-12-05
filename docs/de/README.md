@@ -18,12 +18,12 @@ Willkommen beim Wissenstransfer-Framework v1.0. Dieses Framework bietet eine umf
 
 ## Installation
 
-*Installationsanleitung folgt in Kürze.*
+*Installationsanleitung folgt bald.*
 
 ## Verwendung
 
-*Verwendungsdokumentation folgt in Kürze.*
+*Verwendungsdokumentation folgt bald.*
 
 ## Lizenz
 
-*Lizenzinformationen folgen in Kürze.*
+*Lizenzinformationen folgen bald.*
