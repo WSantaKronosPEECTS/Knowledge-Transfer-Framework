@@ -25,7 +25,7 @@ The `assets/scene-stills/` directory contains PNG images representing key frames
 5. scene5_consciousness.png - Consciousness states visualization
 6. scene6_learning_levels.png - Educational levels integration
 7. scene7_applications.png - Real-world applications
-8. scene9_closing.png - Closing scene and call to action
+8. scene8_closing.png - Closing scene and call to action
 
 ## Usage Instructions
 

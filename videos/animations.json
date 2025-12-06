@@ -147,7 +147,7 @@
     {
       "id": "anim_008",
       "name": "Closing Summary",
-      "scene": "scene9_closing",
+      "scene": "scene8_closing",
       "startTime": 540,
       "duration": 60,
       "type": "composite",
@@ -210,7 +210,7 @@
     },
     {
       "from": "scene7_applications",
-      "to": "scene9_closing",
+      "to": "scene8_closing",
       "type": "zoom_transition",
       "duration": 1.5
     }

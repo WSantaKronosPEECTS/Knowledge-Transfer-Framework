@@ -49,7 +49,7 @@ Target Audience: Students, educators, and researchers
 
 ---
 
-## Scene 9: Closing & Call to Action (9:00 - 10:00)
+## Scene 8: Closing & Call to Action (9:00 - 10:00)
 **Visual:** Summary graphics and contact information
 **Narration:** "Join us in revolutionizing education through the Knowledge Transfer Framework. Visit our repository to learn more and contribute to this groundbreaking initiative."
 

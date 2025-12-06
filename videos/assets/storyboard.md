@@ -175,7 +175,7 @@
 
 ---
 
-## Scene 9: Closing & Call to Action (9:00 - 10:00)
+## Scene 8: Closing & Call to Action (9:00 - 10:00)
 
 ### Visual Composition
 - **Shot:** Mixed - summary then credits
