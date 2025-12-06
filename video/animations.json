@@ -1,0 +1,45 @@
+{
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Introduction",
+      "camera": "slow_zoom_in",
+      "elements": [
+        { "type": "background", "asset": "scene1_intro.png" },
+        { "type": "text", "content": "Elastic Time Theory", "style": "fade_in" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Elastic Time Strings",
+      "camera": "elastic_pulse",
+      "elements": [
+        { "type": "image", "asset": "scene2_elastic_time.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Entanglement Pipelines",
+      "camera": "static",
+      "elements": [
+        { "type": "image", "asset": "scene3_entanglement.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Universal Awareness",
+      "camera": "slow_pan",
+      "elements": [
+        { "type": "image", "asset": "scene4_dark_matter.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Human Consciousness",
+      "camera": "zoom_in",
+      "elements": [
+        { "type": "image", "asset": "scene5_consciousness.png" }
+      ]
+    }
+  ]
+}
