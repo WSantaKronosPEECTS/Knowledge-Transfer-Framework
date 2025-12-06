@@ -1,0 +1,224 @@
+{
+  "project": {
+    "name": "Knowledge Transfer Framework Educational Video",
+    "version": "1.0",
+    "totalDuration": 600,
+    "resolution": "1920x1080",
+    "frameRate": 30
+  },
+  "animations": [
+    {
+      "id": "anim_001",
+      "name": "Title Card Intro",
+      "scene": "scene1_intro",
+      "startTime": 0,
+      "duration": 5,
+      "type": "fade_in",
+      "elements": [
+        {
+          "element": "logo",
+          "animation": "scale_up",
+          "easing": "ease-out"
+        },
+        {
+          "element": "title_text",
+          "animation": "fade_in",
+          "delay": 1.5
+        }
+      ]
+    },
+    {
+      "id": "anim_002",
+      "name": "Elastic Time Visualization",
+      "scene": "scene2_elastic_time",
+      "startTime": 60,
+      "duration": 90,
+      "type": "particle_system",
+      "elements": [
+        {
+          "element": "time_wave",
+          "animation": "sine_wave",
+          "frequency": 0.5
+        },
+        {
+          "element": "clock_dilation",
+          "animation": "morph",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": "anim_003",
+      "name": "Quantum Entanglement Network",
+      "scene": "scene3_entanglement",
+      "startTime": 150,
+      "duration": 90,
+      "type": "node_network",
+      "elements": [
+        {
+          "element": "knowledge_nodes",
+          "animation": "connect_nodes",
+          "nodeCount": 15,
+          "connectionSpeed": 2
+        },
+        {
+          "element": "energy_flow",
+          "animation": "particle_flow",
+          "color": "#4A90E2"
+        }
+      ]
+    },
+    {
+      "id": "anim_004",
+      "name": "Dark Matter Visualization",
+      "scene": "scene4_dark_matter",
+      "startTime": 240,
+      "duration": 90,
+      "type": "volumetric",
+      "elements": [
+        {
+          "element": "hidden_structures",
+          "animation": "reveal",
+          "opacity": 0.3
+        },
+        {
+          "element": "influence_field",
+          "animation": "ripple",
+          "intensity": 0.7
+        }
+      ]
+    },
+    {
+      "id": "anim_005",
+      "name": "Consciousness States",
+      "scene": "scene5_consciousness",
+      "startTime": 330,
+      "duration": 90,
+      "type": "brain_activity",
+      "elements": [
+        {
+          "element": "neural_network",
+          "animation": "pulse",
+          "frequency": 1.2
+        },
+        {
+          "element": "awareness_levels",
+          "animation": "layer_reveal",
+          "layerCount": 4
+        }
+      ]
+    },
+    {
+      "id": "anim_006",
+      "name": "Educational Levels Diagram",
+      "scene": "scene6_learning_levels",
+      "startTime": 420,
+      "duration": 60,
+      "type": "infographic",
+      "elements": [
+        {
+          "element": "level_tiers",
+          "animation": "stack_build",
+          "tiers": 5
+        },
+        {
+          "element": "connection_arrows",
+          "animation": "draw_path",
+          "speed": 1.5
+        }
+      ]
+    },
+    {
+      "id": "anim_007",
+      "name": "Application Examples",
+      "scene": "scene7_applications",
+      "startTime": 480,
+      "duration": 60,
+      "type": "slideshow",
+      "elements": [
+        {
+          "element": "case_study_cards",
+          "animation": "flip_cards",
+          "cardCount": 4,
+          "interval": 15
+        }
+      ]
+    },
+    {
+      "id": "anim_008",
+      "name": "Closing Summary",
+      "scene": "scene8_closing",
+      "startTime": 540,
+      "duration": 60,
+      "type": "composite",
+      "elements": [
+        {
+          "element": "summary_graphics",
+          "animation": "grid_layout",
+          "columns": 3
+        },
+        {
+          "element": "cta_button",
+          "animation": "pulse",
+          "emphasis": true
+        },
+        {
+          "element": "credits_scroll",
+          "animation": "scroll_up",
+          "speed": 0.5,
+          "startTime": 575
+        }
+      ]
+    }
+  ],
+  "transitions": [
+    {
+      "from": "scene1_intro",
+      "to": "scene2_elastic_time",
+      "type": "fade",
+      "duration": 1
+    },
+    {
+      "from": "scene2_elastic_time",
+      "to": "scene3_entanglement",
+      "type": "geometric_wipe",
+      "duration": 1.5
+    },
+    {
+      "from": "scene3_entanglement",
+      "to": "scene4_dark_matter",
+      "type": "dissolve",
+      "duration": 2
+    },
+    {
+      "from": "scene4_dark_matter",
+      "to": "scene5_consciousness",
+      "type": "fade",
+      "duration": 1.5
+    },
+    {
+      "from": "scene5_consciousness",
+      "to": "scene6_learning_levels",
+      "type": "slide",
+      "duration": 1
+    },
+    {
+      "from": "scene6_learning_levels",
+      "to": "scene7_applications",
+      "type": "fade",
+      "duration": 1
+    },
+    {
+      "from": "scene7_applications",
+      "to": "scene8_closing",
+      "type": "zoom_transition",
+      "duration": 1.5
+    }
+  ],
+  "renderSettings": {
+    "quality": "high",
+    "antialiasing": true,
+    "motionBlur": true,
+    "colorSpace": "sRGB"
+  }
+}
