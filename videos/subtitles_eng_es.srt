@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:05,000
+Welcome to the Knowledge Transfer Framework.
+Bienvenidos al Marco de Transferencia de Conocimiento.
+
+2
+00:00:05,500 --> 00:00:10,000
+In this video we explain the core ideas.
+En este video explicamos las ideas principales.
+
+3
+00:00:10,500 --> 00:00:15,000
+Knowledge flows across domains and time scales.
+El conocimiento fluye a través de dominios y escalas de tiempo.
+
+4
+00:00:15,500 --> 00:00:20,000
+Understanding these patterns helps optimize learning.
+Entender estos patrones ayuda a optimizar el aprendizaje.
+
+5
+00:00:20,500 --> 00:00:25,000
+Join us in exploring this comprehensive framework.
+Únase a nosotros para explorar este marco integral.
