@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+authors:
+  - name: "Knowledge Transfer Framework Contributors"
+title: "Knowledge Transfer Framework"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: "2025-01-01"
+url: "https://github.com/WSantaKronosPEECTS/Knowledge-Transfer-Framework"
