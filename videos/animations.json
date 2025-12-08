@@ -1,0 +1,44 @@
+{
+  "scenes": [
+    {
+      "id": "scene1",
+      "name": "Introduction",
+      "description": "Animated title card with the Knowledge Transfer Framework logo. Nodes and connections fade in, representing the interconnected nature of knowledge systems. Camera slowly zooms into the network."
+    },
+    {
+      "id": "scene2",
+      "name": "Elastic Time",
+      "description": "Visual representation of time dilation and compression in learning contexts. Clock elements stretch and compress, showing how knowledge transfer operates across different temporal scales."
+    },
+    {
+      "id": "scene3",
+      "name": "Entanglement",
+      "description": "Network of knowledge nodes that light up and form connections. When one node activates, related nodes illuminate, demonstrating the entangled nature of knowledge relationships."
+    },
+    {
+      "id": "scene4",
+      "name": "Dark Matter",
+      "description": "Visualization of implicit knowledge as dark matter. Visible knowledge elements surrounded by invisible but influential forces, gradually revealing hidden connections and tacit understanding."
+    },
+    {
+      "id": "scene5",
+      "name": "Consciousness",
+      "description": "Abstract representation of knowledge integration into conscious awareness. Flowing particles coalesce into structured forms, symbolizing the transformation of information into understanding."
+    },
+    {
+      "id": "scene6",
+      "name": "Learning Levels",
+      "description": "Layered pyramid or staircase animation showing progressive levels of learning. Each level builds upon the previous, with knowledge elements flowing upward through the structure."
+    },
+    {
+      "id": "scene7",
+      "name": "Applications",
+      "description": "Split-screen montage of real-world applications. Icons and graphics representing education, research, industry, and innovation, connected by flowing knowledge transfer pathways."
+    },
+    {
+      "id": "scene9",
+      "name": "Closing",
+      "description": "Return to the full network view from scene 1, now fully illuminated and active. Call-to-action text and repository information fade in. Smooth zoom out to reveal the complete framework ecosystem."
+    }
+  ]
+}
