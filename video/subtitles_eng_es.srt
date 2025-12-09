@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:10,000
+Welcome. Today, you will enter a scientific journey born from decades of thought, research, and imagination.
+
+2
+00:00:10,000 --> 00:00:20,000
+Bienvenido. Hoy entrarás en un viaje científico nacido de décadas de pensamiento, investigación e imaginación.
+
+3
+00:00:20,000 --> 00:00:30,000
+Time is not a rigid line. In modern physics, time behaves like an elastic medium.
+
+4
+00:00:30,000 --> 00:00:40,000
+El tiempo no es una línea rígida. En la física moderna, el tiempo se comporta como un medio elástico.
