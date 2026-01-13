@@ -13,7 +13,19 @@ b
 ---
 
 ## Living Knowledge Status
+This repository is part of an open, living laboratory.
+Knowledge here is iterative, versioned, and continuously refined.
 
+Principles:
+- Learning is a continuum
+- Errors are part of progress
+- Conundrums signal readiness for the next level
+- Transparency over authority
+- Reproducibility over claims
+
+Current status:
+- Actively evolving
+- Open to validation, correction, and extension
 This repository is part of an open, living laboratory.
 Knowledge here is iterative, versioned, and continuously refined.
 
